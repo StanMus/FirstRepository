@@ -1,3 +1,3 @@
 # FirstRepository
 
-Master's file. Yah
+Здесь находится исходный файл
